@@ -1,4 +1,5 @@
 var express = require('express');
+var msgObjetc = require('./Entities/Chats');
 var router = express.Router();
 
 /* GET users listing. */
